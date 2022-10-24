@@ -6,3 +6,11 @@ A implementaçaõ do projeto foi simples, usando uma imagem retirada do googole,
 A api usada 'https://pokeapi.co/'
 
 projeto basico usando html css e js
+
+
+dirvitasse com seus pokemons favoritos 
+
+
+
+
+#projeto sem fins comerciais
